@@ -93,7 +93,7 @@ This example should generate horizontal, 50px, code128 barcode for "someText".
 ## Issues
 
 We are still in development, so be aware of little bugs that may slip through our fingers.
-If you discover any issues, please email raff@picoprime.com instead of using the issue tracker.
+If you discover any issues, please email rafal@picoprime.com instead of using the issue tracker.
 
 
 # Enjoy
