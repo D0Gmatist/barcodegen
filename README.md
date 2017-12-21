@@ -37,11 +37,10 @@ $this->barcode
     ->generate()
 ```
 
-or
+or with facade and direct `generate` call:
 
 ```
-$this->barcode
-    ->generate($text, $size, $orientation, $codeType, $scale)
+\PicoPrime\BarcodeGen\BarcodeGen::generate($text, $size, $orientation, $codeType, $scale)
 ```
 
 where:
