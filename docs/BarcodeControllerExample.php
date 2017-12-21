@@ -1,6 +1,6 @@
 <?php
 
-namespace Amalizer\Http\Controllers;
+namespace App\Http\Controllers;
 
 use PicoPrime\BarcodeGen\BarcodeGenerator;
 
@@ -30,7 +30,7 @@ class BarcodeController extends Controller
     public function barcodeAsDataUrl(
         $text = '',
         $size = 50,
-        $scale = 1,
+        $scale = 1.0,
         $orientation = 'horizontal',
         $codeType = 'code128'
     ) {

@@ -1,8 +1,6 @@
 <?php
 /**
- *
- * @author RW <raff@picoprime.com>
- * Date: 14/09/15
+ * @author Rafal Wojenkowski <rafal@picoprime.com>
  */
 
 namespace PicoPrime\BarcodeGen;

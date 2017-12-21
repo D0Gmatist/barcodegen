@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Raff W",
-            "email": "raff@picoprime.com"
+            "name": "Rafal Wojenkowski",
+            "email": "rafal@picoprime.com"
         }
     ],
     "require": {
@@ -20,6 +20,16 @@
     "autoload": {
         "psr-4": {
             "PicoPrime\\BarcodeGen\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PicoPrime\\BarcodeGen\\BarcodeGenServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "Barryvdh\\Debugbar\\Facade"
+            }
         }
     }
 }
