@@ -15,7 +15,7 @@ Through Composer, obviously:
 composer require picoprime/barcodegen
 ```
 
-or you can edit composer.json file and add `"picoprime/barcodegen": "~1.0"` to 
+or you can edit composer.json file and add `"picoprime/barcodegen": "~1.5"` to 
 your "require" section.
 
 # Setup
