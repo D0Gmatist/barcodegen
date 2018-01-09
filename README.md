@@ -1,6 +1,6 @@
 # Barcode Generator
 
-[![Author](https://secure.gravatar.com/avatar/074618e37f640d13d402830f61092d09?d=identicon&s=50)](https://twitter.com/raffwpp)
+[![Author](https://secure.gravatar.com/avatar/074618e37f640d13d402830f61092d09?d=identicon&s=50)](https://twitter.com/rweber7912)
 
 Barcode Generator is a simple library that helps you create barcodes images.
 It's designed for Laravel 5 and it can create PNG images or DATA-URL strings.
@@ -107,5 +107,5 @@ have an idea for improvement.
 
 # Enjoy
 
-Oh and if you've come down this far, you might as well follow me on [twitter](https://twitter.com/raffwpp)
+Oh and if you've come down this far, you might as well follow me on [twitter](https://twitter.com/rweber7912)
 or check out my [company's website](https://picoprime.com).

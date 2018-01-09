@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rafal Wojenkowski",
-            "email": "rafal@picoprime.com"
+            "name": "Ryan Weber",
+            "email": "ryan@picoprime.com"
         }
     ],
     "require": {
@@ -28,7 +28,7 @@
                 "PicoPrime\\BarcodeGen\\BarcodeGenServiceProvider"
             ],
             "aliases": {
-                "Debugbar": "Barryvdh\\Debugbar\\Facade"
+                "BarcodeGen": "PicoPrime\\BarcodeGen\\BarcodeGen"
             }
         }
     }
