@@ -2,6 +2,7 @@
     "name": "picoprime/barcodegen",
     "description": "Generates barcodes images as PNG or DATA-URL",
     "keywords": [
+        "laravel",
         "barcode", "barcodes", "generator", 
         "generate", "picoprime", "pico",
         "prime", "data-url", "png", "image"
